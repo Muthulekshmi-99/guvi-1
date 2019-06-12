@@ -1,5 +1,5 @@
-a=input()
-if a.isalpha():
+get=input()
+if get.isalp():
   print("Alphabet")
 else:
   print("No")
