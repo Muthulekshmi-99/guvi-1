@@ -1,7 +1,7 @@
-string=input()
-count=0
-for m in string:
+str=input()
+n=0
+for m in str:
   if m.isnumeric():
-    count=count+1
-print(count)
+    n=n+1
+print(n)
 
